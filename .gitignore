@@ -1,0 +1,10 @@
+node_modules/
+node_modules/fsevents/build/config.gypi
+node_modules/fsevents/build/config.gypi
+node_modules/fsevents/build/Makefile
+node_modules/fsevents/build/Release/fse.node
+node_modules/fsevents/build/Release/obj.target/fse/fsevents.o
+node_modules/vary/LICENSE
+node_modules/word-wrap/README.md
+node_modules/xdg-basedir/index.d.ts
+node_modules/yocto-queue/index.js

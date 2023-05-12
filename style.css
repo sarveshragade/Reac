@@ -1,0 +1,50 @@
+#app {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 0 auto;
+  width: 50vw;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.delete-btn,
+.add-to-cart-btn,
+.reduce-btn,
+.add-btn,
+.checkout-btn {
+  background-color: blue; /* Changed background color to blue */
+  color: white;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.reduce-btn {
+  background-color: red;
+}
+
+.add-btn {
+  background-color: green;
+}
+
+.checkout-btn {
+  background-color: black;
+  margin-top: auto;
+}
+
+.inventory-container ul {
+  list-style-type: none;
+}
+
+.inventory-container li {
+  background-color: wheat;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.cart-wrapper {
+  display: flex;
+  flex-direction: column;
+}
